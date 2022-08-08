@@ -1,11 +1,12 @@
-En base a los elementos entregados pude ver dos soluciones:
+        
+        En base a los elementos entregados pude ver dos soluciones:
 
         la primera es hacer un juego que permita reproducir las opciones del juego.
         
-        la segunda diseccionar el archivo json en base, por ejemplo a un for loop, para posteriormente mediante un if, ir assiganandoles valores string o int
-        a los comandos que se incluian en el json. 
+        la segunda diseccionar el archivo json en base, por ejemplo a un for loop, para posteriormente mediante un if, ir assiganandoles valores string o  
+        int a los comandos que se incluian en el json. 
         
-        la segunda opcion es la que mas se acerca al resultado esperado
+        la segunda opción es la que más se acerca al resultado esperado
         
         
         import os
